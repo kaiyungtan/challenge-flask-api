@@ -1,7 +1,7 @@
 # challenge-flask-api
 to create an API in python with the Flask module
 
-### Learning Objectives
+### Objectives
 
 * Create a flask app
 * Add a route that show hello world
