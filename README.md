@@ -1,4 +1,4 @@
-# challenge-flask-api
+# challenge_flask_api
 to create an API in python with the Flask module
 
 ### Objectives
