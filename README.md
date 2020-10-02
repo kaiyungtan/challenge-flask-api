@@ -53,9 +53,9 @@ to create an API in python with the Flask module
 	* heroku ps:scale web=1
 	* heroku open
 
-35. Deployment successful. (old name https://arcane-reef-89340.herokuapp.com/)
+35. Deployment successful. 
 36. Add github link on Home Page.
-37. Renamed link https://git.heroku.com/kaiyung-flask-api.git
+37. Renamed link - https://kaiyung-flask-api.git.herokuapp.com/)
 
 ### The Mission
 
