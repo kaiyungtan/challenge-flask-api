@@ -35,6 +35,15 @@ to create an API in python with the Flask module
 20. create login.html
 21. update route /login to include flash message and redirct after login to home
 22. update layout.html to get flash message (line43-51)
+23. install flask-sqlalchemy on flask_api env
+24. import SQLAlchemy on main.py
+25. create app.config['SQLALCHEMY_DATA_URI'] = 'sqlite:///site.db'
+26. create database instance db = SQLAlchemy(app)
+27. create class Image for image file
+28. turn application to package
+29. moved files to main folder and created __init__.py 
+30. create run.py to run the app
+
 
 
 ### The Mission
