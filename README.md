@@ -54,6 +54,7 @@ to create an API in python with the Flask module
 	* heroku open
 
 35. Deployment successful. https://arcane-reef-89340.herokuapp.com/
+36. Add github link on Home Page.
 
 ### The Mission
 

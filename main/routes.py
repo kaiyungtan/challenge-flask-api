@@ -40,6 +40,11 @@ def predict():
     return render_template("predict.html", title="Predict", form=form)
 
 
+@app.route('/github')
+def github():
+    return redirect("https://github.com/kaiyungtan/challenge_flask_api", code=302)
+
+
 def save_picture(form_picture):
     random_hex = secrets.token_hex(8)
     _, f_ext = os.path.splitext(form_picture.filename)
