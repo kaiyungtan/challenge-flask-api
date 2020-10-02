@@ -43,8 +43,17 @@ to create an API in python with the Flask module
 28. turn application to package
 29. moved files to main folder and created __init__.py 
 30. create run.py to run the app
+31. install heruko
+32. create Profile with web: gunicorn main:app
+33. pip install gunicorn and update requirements.txt
+34. Follow the command below to deploy heruko
 
+	* heroku create
+	* git push heroku HEAD:master
+	* heroku ps:scale web=1
+	* heroku open
 
+35. Deployment successful. https://arcane-reef-89340.herokuapp.com/
 
 ### The Mission
 
