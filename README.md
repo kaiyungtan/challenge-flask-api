@@ -55,7 +55,7 @@ to create an API in python with the Flask module
 
 35. Deployment successful. 
 36. Add github link on Home Page.
-37. Renamed link - https://kaiyung-flask-api.git.herokuapp.com/)
+37. Renamed link - https://kaiyung-flask-api.git.herokuapp.com/
 
 ### The Mission
 
