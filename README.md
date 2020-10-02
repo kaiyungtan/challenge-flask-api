@@ -3,13 +3,13 @@ to create an API in python with the Flask module
 
 ### Objectives
 
-* Create a flask app
-* Add a route that show hello world
-* Add a route with GET method
-* Add a route with POST method
-* Get data from a GET request, transorm it and return it
-* Get data from a POST request, transorm it and return it
-* Deploy your API on Heroku
+* Create a flask app - DONE
+* Add a route that show hello world - DONE
+* Add a route with GET method - DONE
+* Add a route with POST method - DONE
+* Get data from a GET request, transorm it and return it - DONE
+* Get data from a POST request, transorm it and return it - DONE
+* Deploy your API on Heroku - DONE
 
 
 ### Steps
@@ -93,8 +93,8 @@ GET /predict/<seller_avaible:int>/<month:str>/<customer_visiting_website:int> ->
 * Folow pep8 rules.
 * Add a docstring for each route.
 * Type all you functions.
-* Use Black to format your code.
-* Add a route that take an image and save it on the server. Return the image's server path.
+* Use Black to format your code. - Done
+* Add a route that take an image and save it on the server. Return the image's server path. - Under construction
 * Add unittest for at least one route.
 
 
