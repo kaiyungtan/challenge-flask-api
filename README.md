@@ -9,7 +9,7 @@ to create an API in python with the Flask module
 * Add a route with POST method  
 * Get data from a GET request, transorm it and return it 
 * Get data from a POST request, transorm it and return it  
-* Deploy your API on Heroku  
+* Deploy your API on Heroku  - https://kaiyung-flask-api.herokuapp.com/
 
 
 ### Steps
@@ -55,7 +55,7 @@ to create an API in python with the Flask module
 
 - [X] Deployment successful.  
 - [X] Add github link on Home Page.
-- [X] Renamed the link - https://kaiyung-flask-api.herokuapp.com/
+- [X] Renamed heroku link - https://kaiyung-flask-api.herokuapp.com/
 
 
 ### The Mission
