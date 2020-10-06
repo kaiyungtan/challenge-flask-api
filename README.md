@@ -3,13 +3,13 @@ to create an API in python with the Flask module
 
 ### Objectives
 
-* Create a flask app  
-* Add a route that show hello world  
-* Add a route with GET method  
-* Add a route with POST method  
-* Get data from a GET request, transorm it and return it 
-* Get data from a POST request, transorm it and return it  
-* Deploy your API on Heroku  - https://kaiyung-flask-api.herokuapp.com/
+- [X] Create a flask app  
+- [X] Add a route that show hello world  
+- [X] Add a route with GET method  
+- [X] Add a route with POST method  
+- [X] Get data from a GET request, transorm it and return it 
+- [X] Get data from a POST request, transorm it and return it  
+- [X] Deploy API on Heroku  - https://kaiyung-flask-api.herokuapp.com/
 
 
 ### Steps
