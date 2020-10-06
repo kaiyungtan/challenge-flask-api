@@ -14,6 +14,9 @@ to create an API in python with the Flask module
 
 ### Steps
 
+<details>
+  <summary>Details</summary>
+
 - [X] Create a virtual environment called flask_api 
 - [X] pip install flask / numpy etc
 - [X] pip freeze --local > requirement.txt to create list of libraries installed on flask_api environment
@@ -57,6 +60,7 @@ to create an API in python with the Flask module
 - [X] Add github link on Home Page.
 - [X] Renamed heroku link - https://kaiyung-flask-api.herokuapp.com/
 
+</details>
 
 ### The Mission
 
